@@ -33,7 +33,7 @@ ausmacht.
 Einrichtung und Pflege einer Oracle-Datenbank, die 21 % des Datenbankentwicklungsprozesses ausmacht, 
 und kompetente Erstellung einfacher Abfragen, um wertvolle Erkenntnisse zu gewinnen, was 24 % des 
 Gesamtaufwands ausmacht.
--
+
 - Konsolidierte und aktualisierte kundenspezifische Softwarelösungen, was zu einer Verbesserung der 
 Systemleistung um 20 % und einer Reduzierung der Reaktionszeit um 15 % führt.
 - Ausführung von Codierungs- und Programmieraufgaben, um Projektspezifikationen zu erfüllen und 
