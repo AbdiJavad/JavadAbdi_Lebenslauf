@@ -27,7 +27,6 @@ gemeinsame Ziele, Prozesse und Zeitpläne, um Abläufe zu rationalisieren und di
 Umfeld:Java EE, Oracle, Web Logic, I Batis und Spring Boot.
 SEPAH BANK (Juni 1998 – März 2011)
 Java Entwickler
-Übersetzt von Englisch nach Deutsch - www.onlinedoctranslator.com
 - Einsatz von EJB2 für die Entwicklung von Webseiten, was 17 % des gesamten Webentwicklungsprozesses 
 ausmacht.
 Einrichtung und Pflege einer Oracle-Datenbank, die 21 % des Datenbankentwicklungsprozesses ausmacht, 
