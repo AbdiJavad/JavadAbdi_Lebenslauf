@@ -6,6 +6,7 @@ mirjavadabdi@gmail.com      https://github.com/AbdiJavad
 www.linkedin.com/in/mirjavad-abdi-4a55932a5
 Skype-ID: Javad _Abdi
 https://stackoverflow.com/users/19421588/mirjavad-abdi
+
 BERUFSERFAHRUNG
 SEPAH BANK (Januar 2020 – heute)
 Mittlerer Java-Entwickler
