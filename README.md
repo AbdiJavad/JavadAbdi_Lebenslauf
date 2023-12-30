@@ -3,7 +3,7 @@ Dies ist meine Lebenslaufseite
 Javad Abdi
 
 --mirjavadabdi@gmail.com -- https://github.com/AbdiJavad
---www.linkedin.com/in/mirjavad-abdi
+--www.linkedin.com/in/javad-abdi
 --Skype-ID: Javad _Abdi
 --https://stackoverflow.com/users/19421588/mirjavad-abdi
 
