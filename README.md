@@ -10,7 +10,11 @@ Javad Abdi
 PROFESSIONELLE ERFAHRUNG
 FreelanceUnabhängiger Programmierer (Jan. 2022 - Present)
 •	Java Entwickler
-•	Zusätzlich zu meinen Interessen im Bankmanagement habe ich mich ab 2021 für die Programmierung mit dem Java- und Spring Boot-Framework interessiert. Da ich Fachkenntnisse im IT-Bereich besitze, habe ich begonnen, Kurse zu Java und Spring Boot zu unterrichten. Seit 2022 habe ich intensiv als Java-Entwickler und ich engagierte mich in Bildungsprojekten und habe auch die Erfahrung gemacht, in großen Projekten in freiberuflichen Teams zu arbeiten . Einige der Schulungskurse, die ich gesehen habe, sind: Java, Spring Boot, Git,Swagger, JUnit, Rest Full, OAuth2, Agile und Maven.
+•	Zusätzlich zu meinen Interessen im Bankmanagement habe ich mich ab 2021 
+für die Programmierung mit dem Java- und Spring Boot-Framework interessiert.
+Da ich Fachkenntnisse im IT-Bereich besitze, habe ich begonnen, 
+Kurse zu Java und Spring Boot zu unterrichten. 
+Seit 2022 habe ich intensiv als Java-Entwickler und ich engagierte mich in Bildungsprojekten und habe auch die Erfahrung gemacht, in großen Projekten in freiberuflichen Teams zu arbeiten . Einige der Schulungskurse, die ich gesehen habe, sind: Java, Spring Boot, Git,Swagger, JUnit, Rest Full, OAuth2, Agile und Maven.
 Fähigkeiten:
 ·	Java SE, Spring  Boot ,  Junit ,Swagger , REST Full , Maven
 Sepeh Bank | Als Leiter der Bankfiliale und Leiter der Rial , Devisen- und Fondseinheiten. | Jan 2020 - Present · 
