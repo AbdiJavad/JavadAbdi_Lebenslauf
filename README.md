@@ -7,88 +7,49 @@ Javad Abdi
 --Skype-ID: Javad _Abdi
 --https://stackoverflow.com/users/19421588/mirjavad-abdi
 
-PROFESSIONELLE ERFAHRUNG
-FreelanceUnabhängiger Programmierer (Jan. 2022 - Present)
-•	Java Entwickler
-•	Zusätzlich zu meinen Interessen im Bankmanagement habe ich mich ab 2021 
-für die Programmierung mit dem Java- und Spring Boot-Framework interessiert.
-Da ich Fachkenntnisse im IT-Bereich besitze, habe ich begonnen, 
-Kurse zu Java und Spring Boot zu unterrichten. 
-Seit 2022 habe ich intensiv als Java-Entwickler und ich engagierte mich in Bildungsprojekten
-und habe auch die Erfahrung gemacht, in großen Projekten in freiberuflichen Teams zu arbeiten . 
-Einige der Schulungskurse, die ich gesehen habe,
-sind: Java, Spring Boot, Git,Swagger, JUnit, Rest Full, OAuth2, Agile und Maven.
-Fähigkeiten:
-·	Java SE, Spring  Boot ,  Junit ,Swagger , REST Full , Maven
-Sepeh Bank | Als Leiter der Bankfiliale und Leiter der Rial , Devisen- und Fondseinheiten. | Jan 2020 - Present · 
-·	Bin ich Leiter der Bankfiliale und verantwortlich für die Riyal- und Deviseneinheiten sowie den Fonds. 
-und die von mir ausgebildeten Kurse: Ergänzungskurs Unternehmens- und Einzelhandelsmarketing, 
-Zeitmanagement, Umgang mit Kunden , usw.
-Fähigkeiten: 
-·	Neobank in zwei unabhängigen und abhängigen Modellen und Mini Core ·  
-·	Zeitorganisationsfähigkeiten . 
-·	Die Fähigkeit, Körpersprache einzusetzen  .
-·	Fähigkeit, mit Kunden umzugehen.
-Sepah Bank | Stellvertretender Zweig | Jul 2018 - Dec 2019
-•	War  ich stellvertretender Leiter der Rial- und Fremdwährungskreditabteilung,
-verantwortlich für die Ressourcenzuweisung und Vertreter der Inspektionsabteilung innerhalb der Bankfiliale.
-Ich nahm auch an Schulungen zu Firmen- und Einzelkundenmarketing, Umschulung von Buchhaltungskursen,
-ICDL-Kurse fortgeschrittene Fertigkeiten, fortgeschrittenem Banking und verschiedenen Arten von Bankgarantien teil.
-Fähigkeiten: 
-·	Netzbeziehungsfähigkeiten · 
-·	Unzufriedene Kundenkommunikationsfähigkeiten · 
-·	Effektive Kommunikationsfähigkeiten mit Kunden.
+JAVA ENTWICKLER
+FREIBERUFLICHER UNABHÄNGIGER PROGRAMMIERER
+•	Januar 2022 – Heute
+•	Entwickelte eine Java-basierte Anwendung mit Spring Boot, Rest und Junit, um manuelle Prozesse zu automatisieren und so den Zeitaufwand für sich wiederholende Aufgaben um 40 % zu reduzieren.
+•	Zusammenarbeit mit funktionsübergreifenden Teams zur Verbesserung der Bankverwaltungsprozesse durch Integration von Java-Lösungen, Rationalisierung von Arbeitsabläufen und Verbesserung der Datensicherheitsmaßnahmen.
+•	Entwicklung und Bereitstellung mehrerer Java-Anwendungen mithilfe des Spring Boot-Frameworks, was zu einer Steigerung der Anwendungsleistung um 40 % und einer Reduzierung der Antwortzeit um 25 % führte.
+•	Fähigkeiten: Java, Spring Boot, Github, Swagger, Junit, Rest Full, OAuth2, Maven.
+SENIOR BUSINESS MANAGER UND ANALYST| SEPAH BANK
+•	Januar 2020 – Heute
+•	Leitender Filialleiter und Rekrutierung eines neuen Teams von 10 Mitarbeitern. Steigerung des Büroumsatzes um 200 % in den ersten 9 Monaten (entspricht 20 % des Filialumsatzes).
+•	Neugestaltung des Marketingprogramms und der Website mit LED.
+•	Beförderung innerhalb von 15 Monaten aufgrund starker Leistung und organisatorischer Wirkung (ein Jahr früher als geplant).
+•	Leiter der Datenanalyse von 85.000 monatlich aktiven Nutzern und Nutzung der Ergebnisse zur Förderung von Produkt- und Marketingstrategien. Es verbesserte die durchschnittliche Austauschzeit mit dem Programm um das Zweifache und reduzierte die Absprungrate um 33 %.
+•	Neu entwickeltes internes Marketingsystem, das von 11 Mitarbeitern verwendet wird, was zu mehr als 20 neuen Funktionen, einer Reduzierung der Speicher-/Ladezeit um 20 % und einer Betriebszeit von 15 % führt.
+•	Untersuchte Maßnahmen zur Reduzierung der Rendite auf 11 %, was Kapitalverschwendung verhindert und die Kosten um 976.000 US-Dollar senkt.
+STELLVERTRETENDER GESCHÄFTSANALYST | SEPAH BANK
+•	Juli 2018 – Dezember 2019
+•	Leiten Sie eine umfassende Einlagenumstrukturierung, indem Sie den Schwerpunkt auf die Investitionsbereitschaft des Einlegers verlagern, anstatt überschüssige Einnahmen auszugeben. Einführung eines dreistufigen Preismodells, das den durchschnittlichen Umsatz um 35 % und die Margen um 12 % steigerte.
+•	Anerkannte Maßnahmen zur Senkung des ROI um 13 %, was zu Kosteneinsparungen in Höhe von 120.000 US-Dollar führte.
+Leiter der Kreditabteilung und Senior Business Analyst | SEPAH BANK
+•	Juli 2011 – Juni 2018
+•	Erkannte Maßnahmen zur Senkung der Kostensätze um 15 %, was zu Kosteneinsparungen von 135.000 US-Dollar führte.
+•	Entwicklung und Implementierung einer datengesteuerten Preisstrategie mithilfe von Datenanalysetechniken, die zu einer Steigerung der Gewinnmarge um 15 % und einer Umsatzsteigerung des Unternehmens um 20 % führte.
+•	Überarbeiteter alter, veralteter Quellcode von zwei Produktionsanwendungen, was zu einer Verbesserung der Benutzerfreundlichkeit und einer Verringerung der Laufzeitleistung um bis zu 50 % führte.
+Leiter des Business Development Fund | SEPAH BANK
+•	Juli 2010 – Juni 2011
+•	Analysieren Sie Daten von 25.000 wöchentlichen aktiven Benutzern und nutzen Sie die Ergebnisse, um Marketingstrategien und Produkte zu leiten und zu fokussieren. Die durchschnittliche Interaktionszeit mit der App wurde um das 1,5-fache erhöht und die Abwanderungsrate um 37 % gesenkt.
+VERANTWORTLICH FÜR DIE AUSSTELLUNG VON Schecks der Geschäftsentwicklungseinheit | SEPAH BANK
+•	Januar 2007 – Juni 2010
+•	Einführung eines dreistufigen Einzahlungsmodells, das die durchschnittliche Einzahlung um 35 % und die Marge um 12 % erhöhte.
+•	Leitung eines Prozess-Re-Engineering-Projekts zur Verbesserung und Konsolidierung von End-to-End-Serviceprozessen; Neustrukturierung des Kommunikationsflusses zwischen 12 Abteilungen und Reduzierung des Papierkrams um 75 %.
+Mitarbeiter für Geschäftsentwicklung | SEPAH BANK
+•	Januar 2000 – Dezember 2007
+•	Durch den Abschluss der Schulungs- und Marketingkompetenzkurse sowie der Garantie wurde eine Verbesserung um 90 % bei der Erreichung der Ziele der Organisation erreicht.
+AUSBILDUNG
+•	UNIVERSITÄT FÜR BANKWISSENSCHAFTEN.	
+•	Teheran, Iran
+•	Oktober 2008- Juni 2011
+•	Bachelor im Ingenieurwesen; Hauptfach Buchhaltung	
+WEITERE INFORMATIONEN
+●	Technische Fähigkeiten:Java, Java SE, Spring Boot, REST Full, JUnit, Maven, SQL Server, Hibernate & JPA, OAuth2, GitLab CI, Swagger, Postman
+●	Fähigkeiten: Netzwerkfähigkeiten, Neo-Bank in zwei unabhängigen und abhängigen Modellen und Mini Core, Customers Support & Care, Spezialisiert auf Mikrodienstleistungen im Bank- und Makrobanking
+●	Sprachen: Fließend Deutsch und Englisch
+●	Zertifizierungen:IELTS-Zertifikat, Deutsch B2-Zertifikat
+●	Auszeichnungen: Vorbildlicher Mitarbeiter des Jahres unter über 3000 Mitarbeitern (2014, 2020)
 
-Sepeh Bank|Als Verantwortlicher für Rial- und Fremdwährungskredite| Jul 2011 - Jun 2018 
-•	  War ich Leiter der Bank für Überweisungskredite und Ressourcenzuweisung. 
-Zusätzlich nahm ich an Schulungen zu Ressourcenzuweisung, erweiterten Bankgarantien
-sowie Eröffnungsarten von inländischen und ausländischen LCs teil.
-Fähigkeiten: 
-·	Spezialist für die Ausstellung von Bankgarantien aller Art . 
-·	Interne und externe LC-Fähigkeiten .  
-·	Spezialisiert auf alle Arten von Dokumenten und Akkreditiven.
-
-Sepeh Bank | Als Leiter der Rial- und Fremdwährungsliquiditätsabteilung | Jul 
- 2010 - Jun 2011 
-·	War ich Leiter der Rial- und Fremdwährungsliquiditätsabteilung.
-Des Weiteren war ich für interne Personalangelegenheiten der Filiale zuständig,
-betreute die Zusteller und die B2C-Abteilung der Bank.
-Ich kümmerte mich auch um ATM-Geräteangelegenheiten und nahm an Schulungen zu fortgeschrittenem Marketing, 
-interner Ressourcenausstattung der Bank sowie fortgeschrittener Buchhaltung und Finanzen teil.
-Fähigkeiten: 
-·	Spezialkurs für Geldautomaten-Computersoftware .
-·	Verbale Kommunikationsfähigkeiten.
-·	Körpersprachliche Fähigkeiten .
-·	Vermarktung kleiner und großer Kunden.
-·	
-Sepeh Bank |Als Verantwortlicher für Bank- und Interbankschecks | Jan 2007 - Jun 2010
-•	   War ich verantwortlich für Bank- und Interbankschecks, Kredit- und Forderungsschecks, 
-sowie als Aushilfskraft in der Riyal-Kreditabteilung und als Leiterin der Auslieferung. 
-Zusätzlich habe ich an Kursen zu ICDL, fortgeschrittenem Banking,
-Marketing und verschiedenen Arten von Garantien teilgenommen.
-
- Fähigkeiten: 
-•	Vertrautheit mit Microservices in der Bank.
-•	ICDL-Ergänzungskurse  .
-•	Kommunikationsfähigkeiten mit Kunden .
-•	Informatikkenntnisse.
- Sepeh Bank |Angestellter bei der Sepeh Bank im Bereich Sparkontoeröffnung |  Jan 2000 - Dec 2006  
-•	Ich begann 2000 als Angestellter bei der Sepeh Bank im Bereich der Eröffnung eines Sparkontos und
-der Durchführung von Finanztransaktionen im B2C-Bereich zu arbeiten,
-außerdem arbeitete ich mit Banksoftware und Kundendienstkursen, Computeranwendungen und Office Software.
-Ich habe die Grundlagen von ICDL, Bankbuchhaltung und Ressourcenallokation gelernt.
-Fähigkeiten: 
-•	Makrobanking .
-•	Banksoftware .
-•	ICDL-Einführungskurse.
-•	B2C.
-BILDUNGSHINTERGRUND / ZERTIFIZIERUNGEN
-•	Fachspezialist für Informatik.
-•	B.Sc. in Bankbuchhaltung.
-•	IELTS-Zertifikat.
-•	Zertifikat Deutsch B2.
-
-TECHNISCHE FÄHIGKEITEN
-•	Sprachen: Java 
-•	Webtechnologien: Java SE, Spring Boot, REST Full.
-•	CI/CD: JUnit, Maven, SQL Server, Hibernate & JPA, OAuth2 , GitLab CI, Swagger, Postman
