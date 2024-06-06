@@ -48,7 +48,7 @@ AUSBILDUNG
 •	Bachelor im Ingenieurwesen; Hauptfach Buchhaltung	
 WEITERE INFORMATIONEN
 ●	Technische Fähigkeiten:Java, Java SE, Spring Boot, REST Full, JUnit, Maven, SQL Server, Hibernate & JPA, OAuth2, GitLab CI, Swagger, Postman
-●	Fähigkeiten: Netzwerkfähigkeiten, Neo-Bank in zwei unabhängigen und abhängigen Modellen und Mini Core, Customers Support & Care, Spezialisiert auf Mikrodienstleistungen im Bank- und Makrobanking
+●	Fähigkeiten: Netzwerkfähigkeiten, Neo-Bank in zwei unabhängigen und abhängigen Modellen und Mini Core, Customers Support & Care, Spezialisiert auf Mikrodienstleistungen im Bank- und Makrobanking.
 ●	Sprachen: Fließend Deutsch und Englisch
 ●	Zertifizierungen:IELTS-Zertifikat, Deutsch B2-Zertifikat
 ●	Auszeichnungen: Vorbildlicher Mitarbeiter des Jahres unter über 3000 Mitarbeitern (2014, 2020)
